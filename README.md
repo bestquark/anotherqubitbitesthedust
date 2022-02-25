@@ -13,4 +13,4 @@ Developments in microarray technologies have revolutionized life sciences by giv
 
 ### List of Open Hackathon challenges:
 - Bio-QML Challenge
-- 
+- Quantum entrepreneur challenge
